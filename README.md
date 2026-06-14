@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Predictor
 
 A machine learning project that models how study habits, lifestyle choices, and
@@ -167,3 +168,6 @@ Performance band:  Excellent 🟢
 ## License
 
 MIT — free for personal and academic use.
+=======
+# student_performance
+>>>>>>> fb48cf57fa93bb4f7a5a391a1e2a78b04ed8922f
