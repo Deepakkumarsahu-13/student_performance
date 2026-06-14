@@ -5,6 +5,8 @@ Exploratory Data Analysis + three publication-quality visualizations.
 
 Outputs saved to  ./plots/
 """
+import matplotlib
+matplotlib.use("Agg")  # non-GUI backend — no tkinter needed
 
 import os
 import warnings

@@ -8,6 +8,8 @@ Usage
 -----
     python model.py          # train, evaluate, save
 """
+import matplotlib
+matplotlib.use("Agg")  # non-GUI backend — no tkinter needed
 
 import os
 import pickle

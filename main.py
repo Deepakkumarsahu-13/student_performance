@@ -13,6 +13,8 @@ Run everything:
 Skip the interactive console (useful in automated pipelines):
     python main.py --no-predict
 """
+import matplotlib
+matplotlib.use("Agg")  # non-GUI backend — no tkinter needed
 
 import sys
 import os
